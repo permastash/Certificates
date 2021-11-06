@@ -15,3 +15,6 @@ https://share.cryptozombies.io/en/lesson/1/share/Zombo?id=Y3p8MTM4Nzc1
 
 ## Landing Page
 <img width="519" alt="Screenshot 2021-11-06 at 13 03 53" src="https://user-images.githubusercontent.com/92427507/140608905-be0023db-330c-436e-a740-2fe72216ef46.png">
+
+##Discord Bot
+<img width="1370" alt="Community Bot" src="https://user-images.githubusercontent.com/92427507/140610157-a7e4bd23-ef5b-4bda-b1ee-49a5ecd0295c.png">
