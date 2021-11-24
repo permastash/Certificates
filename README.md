@@ -18,3 +18,6 @@ https://share.cryptozombies.io/en/lesson/1/share/Zombo?id=Y3p8MTM4Nzc1
 
 ##Discord Bot
 <img width="1370" alt="Community Bot" src="https://user-images.githubusercontent.com/92427507/140610157-a7e4bd23-ef5b-4bda-b1ee-49a5ecd0295c.png">
+
+##Poster: Vertical Agriculture Technical University Berlin 
+[Gruppe P - Vertikale Landwirtschaft.pdf](https://github.com/permastash/Certificates/files/7595867/Gruppe.P.-.Vertikale.Landwirtschaft.pdf)
